@@ -66,7 +66,7 @@ public:
         assert(hashGenesisBlock == uint256("0x000004db8dbb432c8aa551f810a696c6055474a83c328102730984276aea3dc7"));
         assert(genesis.hashMerkleRoot == uint256("0xbaf41c47e1e3aa850bcc80aac60978c23ad6d4a961e19fda2028171a5a914b37"));
 
-        vSeeds.push_back(CDNSSeedData("192.168.1.130", "www.bw.com"));
+        vSeeds.push_back(CDNSSeedData("183.15.244.202", ""));
 
 
         base58Prefixes[PUBKEY_ADDRESS] = 24;
